@@ -1,0 +1,29 @@
+node server.js
+
+README.md
+# Real-Time Collaborative Editor
+
+A simple collaborative note-taking tool built using:
+- Express.js
+- Socket.io (WebSocket)
+- HTML/CSS/JS
+
+## Features
+- Real-time text sync between users
+- Lightweight frontend
+- Built on WebSocket via Socket.io
+
+## Setup
+
+```bash
+npm install
+node server.js
+
+Visit: http://localhost:3000
+
+---
+
+## ✅ Final Steps
+- Push everything to a GitHub repo like `collaborative-editor`
+
+
